@@ -1,0 +1,65 @@
+body {margin: 0; background: #919191;
+
+}
+button {
+       background:#ccc;
+       color:#000;
+       border-width:2px;
+       border-style:solid;
+       border-top-color:#fff;
+       border-left-color:#fff;
+       border-right-color:#333;
+       border-bottom-color:#333;
+       width:;
+       height:;
+       font-size:20px;
+       text-shadow:1px 1px 1px #fff;
+    margin: 5 5 5 5;
+     }
+button:active {
+       border-top-color:#333;
+       border-left-color:#333;
+       border-right-color:#fff;
+       border-bottom-color:#fff;
+     }
+button:focus {
+       outline:0;
+     }
+
+.images img {display: inline-block;
+height: 150px;
+          background: url(http://www.romancortes.com/arcimbolder/i/base.png) no-repeat center center ; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    margin: 1 1 1 1;
+}
+.center{text-align: center;}
+.images { 
+    border-top-color: #333;
+    border-bottom-color: #333;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    
+      background: url(http://vignette3.wikia.nocookie.net/vaporwave/images/5/50/Wiki-background/revision/latest?cb=20150317164647) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.made {text-align: center;}
+
+.cap {font-weight: bolder;font-size: 40px;text-decoration: underline;}
+
+.title{padding-left: 10px;}
+
+.view {height: 300px !important;}
+
+.p {
+
+}
+
+.sound {float: right;}

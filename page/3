@@ -1,0 +1,36 @@
+<img src="http://66.media.tumblr.com/423250121ed5a3ac57dae30244ab611c/tumblr_npin5ueiQT1sdedmbo1_500.gif">
+<img src="http://img08.deviantart.net/bcf3/i/2016/250/f/a/vaporwave__by_ziuumm-dagu17j.png">
+<img src="https://i.ytimg.com/vi/rZ4mNVy4cXo/maxresdefault.jpg">
+<img src="https://66.media.tumblr.com/f732927605a844f553703e1144493133/tumblr_nr3desSuzO1tlm0p2o1_500.gif">
+<img src="http://orig02.deviantart.net/cb64/f/2016/146/8/2/v_a_p_o_r_w_a_v_e___6_by_peachemoji-da3xcww.png">
+<img src="http://2static2.fjcdn.com/thumbnails/comments/I+v+e+m+a+_093d226e0f7d0d2db63d09bbd8046f15.jpg">
+<img src="http://i3.kym-cdn.com/photos/images/newsfeed/000/778/018/ea8.jpg">
+<img src="http://www.rafaeldejongh.com/wp-content/uploads/2016/10/Vaporwave-Standing.jpg">
+<img src="http://images.8tracks.com/cover/i/009/902/564/vape-9724.jpg?rect=15,0,610,610&q=98&fm=jpg&fit=max">
+<img src="https://secure.static.tumblr.com/9aadf1f0359e35729566641db9d9fbfc/hiab4dc/hRioap8fa/tumblr_static_tumblr_static_6buzrgfv4toow48k8goos48g8_640.gif">
+<img src="https://media.giphy.com/media/G2k1HJdHvg0G4/giphy.gif">
+<img src="http://66.media.tumblr.com/84d0b0f22170e2b949f92671df2ed81b/tumblr_n33hnsqXrO1sey9vmo2_500.gif">
+<img src="http://www.agostinoscafidi.com/images/music/music%20review/cover(6).png">
+<img src="https://media.tenor.co/images/f1abda231d99c143eb6c94e77f71a88c/raw">
+<img src="http://img01.deviantart.net/93b8/i/2015/074/d/1/aesthetic_vaporwave_background_by_frexk-d8lslvf.png">
+<img src="http://img01.deviantart.net/468b/i/2015/344/7/9/iconic_wav_by_vapor_wave-d9jpokh.jpg">
+<img src="http://www.rafaeldejongh.com/wp-content/uploads/2016/10/Vaporwave-Right.jpg">
+<img src="http://img11.deviantart.net/d8b2/i/2015/274/0/c/vaporwave_wallpaper_1_by_minty_paws-d9bmb9e.png">
+<img src="https://media.tenor.co/images/dee888ceb1404b7c7342ad5328cf34d5/raw">
+<img src="https://s-media-cache-ak0.pinimg.com/736x/33/36/da/3336da291974ea7c774d493267b829e2.jpg">
+<div>
+
+<button onclick="location.href = '/?page=1'" >1</button>
+<button onclick="location.href = '/?page=2'" >2</button>
+<button onclick="location.href = '/?page=3'" >3</button>
+<button onclick="location.href = '/?page=4'" >4</button>
+
+</div>
+    <script>$(".images img").click(function() {
+    var src = $(this).attr("src");
+    window.open(
+       "/view.html?l=" + src, //change this to your relative path + src
+        '_parent' // <- This is what makes it open in a new window.
+    );
+});</script>
+

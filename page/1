@@ -1,0 +1,37 @@
+<img src="http://img08.deviantart.net/62ca/i/2016/099/a/3/nature_neon_by_redheadsoldier-d9ycnm9.jpg">
+    <img src="http://img10.deviantart.net/a22e/i/2015/241/9/a/synthcity_by_kirillotr0n-d97mhif.jpg">
+    <img src="http://pre15.deviantart.net/fa3a/th/pre/f/2015/300/8/e/highway_by_axiomdesign-d9em9fs.jpg">
+    <img src="https://lh3.googleusercontent.com/G3fmYyKP1FRv9GhhqUaJU2vVpLiXcaqE8EgHqYr073pI4gskb9pElEoLAD9xVx7ao0ba=h900">
+    <img src="http://innoculous.com/wp-content/uploads/2016/08/vaporwave-night-apartment.jpg">
+    <img src="http://i.imgur.com/Do4n7Su.png">
+    <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/11325026_1513884372235664_745237363_n.jpg?ig_cache_key=MTA1NjIwMzI5NTkwNzE4Njk1Ng%3D%3D.2">
+    <img src="http://img15.deviantart.net/4583/i/2016/248/9/5/vaporwave_by_macplus91-dagn0cf.png">
+    <img src="https://secure.static.tumblr.com/7584f10c4c9e6ea83346dcc153804974/dmvoxki/4tGnm8kkc/tumblr_static_tumblr_static_71adrl2zw30o40owwocg4goo8_640.jpg">
+    <img src="https://media0.giphy.com/media/l2R09a5L5Bb6ppV7y/200_s.gif">    
+<img src="http://i.imgur.com/lTO9Plf.png">
+<img src="https://atlanticcenturion.files.wordpress.com/2015/06/cover.png">
+<img src="https://i.ytimg.com/vi/rTfa-9aCTYg/hqdefault.jpg">
+    
+    <img src="http://i.imgur.com/0Mw1Nu9.png">
+    <img src="https://media.tenor.co/images/a1a0cf7fe587026ae2a03f1fc6468aec/raw">
+    <img src="http://esq.h-cdn.co/assets/16/33/1600x900/hd-aspect-1471537670-es-081716-vaporwave.jpg">
+    <img src="https://media.giphy.com/media/menhL40q9xDO0/giphy.gif">
+    <img src="https://levels.io/wp-content/uploads/2015/10/tumblr_nv2cqhOJPL1ufh7yno1_1280.png">
+    <img src="https://66.media.tumblr.com/9e5926abcc3e57d235c9c900a9192ce5/tumblr_o1afcl6Zv11sc2trxo1_500.gif">
+    <img src="https://i.ytimg.com/vi/PdpP0mXOlWM/maxresdefault.jpg">
+    <div>
+
+<button onclick="location.href = '/?page=1'" >1</button>
+<button onclick="location.href = '/?page=2'" >2</button>
+<button onclick="location.href = '/?page=3'" >3</button>
+<button onclick="location.href = '/?page=4'" >4</button>
+
+</div>
+    <script>$(".images img").click(function() {
+    var src = $(this).attr("src");
+    window.open(
+       "/view.html?l=" + src, //change this to your relative path + src
+        '_parent' // <- This is what makes it open in a new window.
+    );
+});</script>
+

@@ -1,0 +1,123 @@
+<title>Vaporwave - About</title>
+<link rel="icon" href="http://res.cloudinary.com/thefader/image/upload/s--wh3WrGPd--/w_760,c_limit,q_jpegmini,f_auto/vaporwave_wp52hr.jpg">
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+<button onclick="location.href = '/'" >Home</button><button onclick="location.href = '/about'">About</button><button onclick="location.href = 'https://www.reddit.com/r/Vaporwave/'">Reddit</button><button onclick="location.href = '/more.html'">More</button>
+<style>
+    .card {position: relative;
+    width: 300px;
+        margin: auto;
+        display: inline-block;
+        padding: 5px;
+        
+        background:#ccc;
+       color:#000;
+       border-width:2px;
+       border-style:solid;
+       border-top-color:#fff;
+       border-left-color:#fff;
+       border-right-color:#333;
+       border-bottom-color:#333;
+       width:;
+       height:;
+       font-size:20px;
+       text-shadow:1px 1px 1px #fff;
+    margin: 5 5 5 5;
+    }
+    .cardimg {width: 100%;
+    
+    }
+    
+    .link {display: block;
+    text-align: center;
+    }
+    .cards {text-align: center;}
+</style>
+<div class="images">
+<h1 class="title"><span class="cap">M</span>ore</h1>
+    <div class="cards">
+        
+   <div class="card">
+    <img class="cardimg" src="http://kodxinv.pl/wp-content/uploads/2014/05/sklep2.png">
+       <div class="link"><button class="link1" onclick="location.href = 'https://vapor95.com/'">Open</button><button class="link1" >Store</button></div>
+    </div>
+        
+           <div class="card">
+    <img class="cardimg" src="https://67.media.tumblr.com/ef0941b4810832c799873f2215bf24d0/tumblr_nmlc984nJo1ti1ilso1_500.jpg">
+                      <div class="link"><button class="link1" onclick="location.href = 'https://plaza.one/'">Open</button><button class="link1" >Radio</button></div>
+    </div>
+        
+           <div class="card">
+    <img class="cardimg" src="http://currentcondition.org/assets/og-1e8597f21481013efdd415720b7891d0.png">
+                      <div class="link"><button class="link1" onclick="location.href = 'http://currentcondition.org/'">Open</button><button class="link1" >Radio</button></div>
+    </div>
+                   <div class="card">
+    <img class="cardimg" src="https://www.themebeta.com/files/picture/201609/15/3447d0e45e51f30f6c3af1bb31fefe03.jpeg">
+                      <div class="link"><button class="link1" onclick="location.href = 'https://www.youtube.com/channel/UCuB9r9wiT5_tT7YgUshg35g'">Open</button><button class="link1" >Youtube</button></div>
+    </div>
+        
+        
+</div>
+    <br><br><br><br><br><br><br><br><br>
+    </div>
+<div class="made">
+<img src="/images/notepad.gif" alt="Notepad" border="0" vspace="1" height="31" width="88">
+<img src="/images/nnbrows.gif" alt="Notepad" border="0" vspace="1" height="31" width="88">
+<img src="/images/oprabrow.gif" alt="Notepad" border="0" vspace="1" height="31" width="88">
+<img src="/images/msiebrow.gif" alt="Notepad" border="0" vspace="1" height="31" width="88">
+<img src="/images/anybrows.gif" alt="Notepad" border="0" vspace="1" height="31" width="88">
+</div>
+
+<audio preload="auto" src="http://gentlecuts.net/wp-content/uploads/2012/01/%E3%83%AA%E3%82%B5%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF420-_-%E7%8F%BE%E4%BB%A3%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC.mp3" loop="true" autobuffer autoplay>
+Unsupported in Firefox
+</audio>
+
+<script>
+
+function setCookie(c_name,value,exdays)
+{
+    var exdate=new Date();
+    exdate.setDate(exdate.getDate() + exdays);
+    var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+    document.cookie=c_name + "=" + c_value;
+}
+
+function getCookie(c_name)
+{
+    var i,x,y,ARRcookies=document.cookie.split(";");
+    for (i=0;i<ARRcookies.length;i++)
+    {
+      x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+      y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+      x=x.replace(/^\s+|\s+$/g,"");
+      if (x==c_name)
+        {
+        return unescape(y);
+        }
+      }
+}
+
+var song = document.getElementsByTagName('audio')[0];
+var played = false;
+var tillPlayed = getCookie('timePlayed');
+function update()
+{
+    if(!played){
+        if(tillPlayed){
+        song.currentTime = tillPlayed;
+        song.play();
+        played = true;
+        }
+        else {
+                song.play();
+                played = true;
+        }
+    }
+
+    else {
+    setCookie('timePlayed', song.currentTime);
+    }
+}
+setInterval(update,100);
+</script>

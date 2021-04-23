@@ -1,0 +1,19 @@
+<img src="https://media.giphy.com/media/11g9v5O9Djv9y8/giphy.gif">
+<img src="https://s-media-cache-ak0.pinimg.com/736x/33/36/da/3336da291974ea7c774d493267b829e2.jpg">
+<img src="https://67.media.tumblr.com/3bc6faac9df9fb1473648d9fb0d630fd/tumblr_od93hr02iR1veiiuwo1_500.gif">
+<div>
+
+<button onclick="location.href = '/?page=1'" >1</button>
+<button onclick="location.href = '/?page=2'" >2</button>
+<button onclick="location.href = '/?page=3'" >3</button>
+<button onclick="location.href = '/?page=4'" >4</button>
+
+</div>
+    <script>$(".images img").click(function() {
+    var src = $(this).attr("src");
+    window.open(
+       "/view.html?l=" + src, //change this to your relative path + src
+        '_parent' // <- This is what makes it open in a new window.
+    );
+});</script>
+

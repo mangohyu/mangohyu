@@ -1,0 +1,36 @@
+<img src="https://thump-images.vice.com/images/tracks/meta/2015/09/15/prepare-to-get-deliriously-dreamy-with-vaporwave-sensation-2814s-beyond-blissful-shinjitsu-no-koi-1442324234.png?crop=1xw:0.9542220113852xh;center,top&resize=800:*&output-quality=75">
+    <img src="https://media.tenor.co/images/002fd59594e737b938c815fa22500721/raw">
+    <img src="https://67.media.tumblr.com/e840e08f192bd2df4df5826b1dc4c66b/tumblr_nz5pp6ezDD1ufh7yno1_500.gif">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/45563229856031.5611fc1811e24.png">
+    <img src="http://www.fubiz.net/wp-content/uploads/2016/03/aestheticvaporwavedigital90sinspiredcreations-3-900x900.png">
+    <img src="https://31.media.tumblr.com/007d4e2a6d3b92f9e0a10a1afcfd31b4/tumblr_n9fvb9QMLL1s3kw2xo1_1280.gif">
+    <img src="https://secure.static.tumblr.com/abcb09d1e8222d5808a92b7d73a53914/vtlbj4f/4Tqnz1tni/tumblr_static_tumblr_static_1k6edq1qr274k8wwkg880owok_640.gif">
+    <img src="https://secure.static.tumblr.com/00eae7bcd17d585afa07c5d1d394eff8/h7pzoea/30Pntrbg1/tumblr_static_tumblr_static_6f37kghn4i880k80og0884o88_640.gif">
+    <img src="https://media.tenor.co/images/690879a87527cacee4fff90e01c0610e/raw">
+    <img src="https://media.giphy.com/media/pMIZ5wO75HZ60/giphy.gif">
+    <img src="https://media.tenor.co/images/3569342de6190d7e2e373832583e8e1d/raw">
+    <img src="http://vaporwave.co/wp-content/uploads/2016/04/vaporwave-seinfeld-windows95.jpg">
+    <img src="https://i.ytimg.com/vi/AmfAl-Ik5no/maxresdefault.jpg">
+    <img src="http://vaporwave.co/wp-content/uploads/2016/04/vaporwave-door.gif">
+    <img src="http://img3.hungertv.com/wp-content/uploads/2016/05/tumblr_o76ce5JqYG1v9ctwdo1_500.gif">
+    <img src="https://framasphere.org/camo/10e984c968b5c656a316abb9c3be3fdbe1f321e2/68747470733a2f2f34392e6d656469612e74756d626c722e636f6d2f30663262383438303631653239383436613333386364346162653964383337382f74756d626c725f6e716b6d30683176474231736c743671656f315f3530302e676966">
+    <img src="http://67.media.tumblr.com/07d610f83d41d2339c827c748bc11728/tumblr_inline_nodct8kSr81rvgpz7_500.gif">
+    <img src="http://33.media.tumblr.com/88edb3c73e767ca4a11d2fddcee15cf3/tumblr_ngalmh6lWM1s4zvtuo1_500.gif">
+    <img src="https://philraptor.files.wordpress.com/2015/10/serenity-game-by-devil-nyka-07.png">
+    <img src="https://media.tenor.co/images/f25205b68f7168fc06a1dc6bdf93246a/raw">
+    <div>
+
+<button onclick="location.href = '/?page=1'" >1</button>
+<button onclick="location.href = '/?page=2'" >2</button>
+<button onclick="location.href = '/?page=3'" >3</button>
+<button onclick="location.href = '/?page=4'" >4</button>
+
+</div>
+    <script>$(".images img").click(function() {
+    var src = $(this).attr("src");
+    window.open(
+       "/view.html?l=" + src, //change this to your relative path + src
+        '_parent' // <- This is what makes it open in a new window.
+    );
+});</script>
+
