@@ -44,7 +44,7 @@ height: 150px;
     border-bottom-style: solid;
     border-bottom-width: 2px;
     
-      background: url(http://vignette3.wikia.nocookie.net/vaporwave/images/5/50/Wiki-background/revision/latest?cb=20150317164647) no-repeat center center fixed; 
+      background: url('/mangohyu/images/background.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
