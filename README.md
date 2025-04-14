@@ -1,16 +1,35 @@
-### Hi there 👋
+# 🍊 안녕하세요! 망고입니다 👋
 
-<!--
-**mangohyu/mangohyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+프론트엔드 개발자이자,  
+작은 아이디어를 직접 서비스로 만들어보는 걸 좋아하는 사람입니다.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 현재 하고 있는 것
+
+- 🍽️ [Eatcatch] 식단을 귀엽게 기록하는 나만의 헬스 다이어리  
+- 🌌 [망고의 우주 포트폴리오] 별자리를 클릭하면 프로젝트를 탐험할 수 있는 인터랙티브 우주  
+- 💡 하루 한 개 이상 기록하기 (코드/기획/UI)
+
+---
+
+## 🧠 좋아하는 키워드
+
+`Vue` `JavaScript` `Tailwind` `UX/UI`  
+`로컬에서 구현해보기` `나만의 캐릭터` `감성있는 디지털`
+
+---
+
+## 🛠️ 주로 쓰는 스택
+
+- Frontend: **Vue 3 + Vite**, **Pinia**, **Tailwind CSS**
+- Tools: VSCode, Figma, Git, Notion
+- 개인 서버: PHP (CodeIgniter), 카페24
+
+---
+
+## ✨ 작은 목표
+
+- 🌙 나만의 감성 캐릭터로 서비스를 만들어보기  
+- 🧭 기술이 아니라 *사용자 경험*으로 기억되는 서비스 만들기  
+- 📱 모바일에서 잘 돌아가는 웹앱 만들기
