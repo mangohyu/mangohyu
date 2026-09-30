@@ -105,9 +105,10 @@ Nuxt 기반의 인터랙티브 웹 프로젝트를 개발하고 있습니다.
 ### Backend / Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,php,go,mysql" />
 </p>
 
+- Go (Golang)
 - REST API
 - CodeIgniter
 - Authentication
@@ -211,6 +212,7 @@ Real-world Test
 - Tailwind CSS
 - Pinia
 - PHP / CodeIgniter
+- Go (Golang)
 - Firebase
 - Supabase
 - Capacitor
