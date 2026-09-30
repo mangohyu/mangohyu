@@ -63,10 +63,6 @@ Nuxt 기반의 인터랙티브 웹 프로젝트를 개발하고 있습니다.
 - 터치 기반 인터페이스
 - 현장 운영 환경 대응
 
-### Public Projects
-
-- [GwacheonKiosk-ScienceDay](https://github.com/mangohyu/GwacheonKiosk-ScienceDay)
-- [GwacheonKiosk-Daedong](https://github.com/mangohyu/GwacheonKiosk-Daedong)
 
 ---
 
