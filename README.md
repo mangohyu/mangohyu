@@ -99,13 +99,13 @@ Nuxt 기반의 인터랙티브 웹 프로젝트를 개발하고 있습니다.
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,html,css,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,html,css,tailwind,vite" alt="Frontend technologies: Vue, Nuxt, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Vite" />
 </p>
 
 ### Backend / Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,php,go,mysql" />
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,php,go,mysql" alt="Backend and data technologies: Supabase, Firebase, PHP, Go, MySQL" />
 </p>
 
 - Go (Golang)
@@ -118,7 +118,7 @@ Nuxt 기반의 인터랙티브 웹 프로젝트를 개발하고 있습니다.
 ### Interactive / Graphics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=threejs" />
+  <img src="https://skillicons.dev/icons?i=threejs" alt="Interactive graphics technology: Three.js" />
 </p>
 
 - GSAP
@@ -132,13 +132,13 @@ Nuxt 기반의 인터랙티브 웹 프로젝트를 개발하고 있습니다.
 ### Desktop / Hardware
 
 <p>
-  <img src="https://skillicons.dev/icons?i=electron,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=electron,arduino,raspberrypi" alt="Desktop and hardware technologies: Electron, Arduino, Raspberry Pi" />
 </p>
 
 ### Tools & Deploy
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" alt="Development tools: Git, GitHub, VS Code, Figma, Vercel" />
 </p>
 
 - Git
@@ -242,6 +242,6 @@ Real-world Test
 
 ### 🥭 Build something people can actually experience.
 
-<img src="https://github-readme-stats.vercel.app/api?username=mangohyu&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mangohyu&show_icons=true&hide_border=true" alt="GitHub profile statistics for mangohyu" />
 
 </div>
